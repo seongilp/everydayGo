@@ -1,1 +1,3 @@
 # everydayGo
+
+* everyday go!`:w`
